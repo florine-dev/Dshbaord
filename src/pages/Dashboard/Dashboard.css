@@ -1,0 +1,166 @@
+.contenuDashbord {
+  width: 100%;
+}
+.parti1parti2 {
+  width: 100%;
+}
+
+.displayflex {
+  display: flex;
+  flex-direction: row;
+}
+.sidebar {
+  width: 22%;
+  background-color: brown;
+  justify-content: space-between;
+  padding: 1rem;
+}
+.plateforme {
+  width: 76%;
+}
+.entetePlateforme {
+  color: brown;
+  text-align: center;
+}
+.userPlateform {
+  justify-content: space-between;
+  width: 12%;
+  margin-left: 70%;
+}
+.userplateformimg {
+  width: 1.3rem;
+  height: 1.3rem;
+}
+.userPlateform > p {
+  margin: 0rem;
+}
+.plateforme {
+  padding: 3rem;
+}
+.parti1dashboard {
+  width: 50%;
+}
+.assetviewExercice {
+  width: 100%;
+  justify-content: space-between;
+}
+.assetviewcurrent {
+  width: 100%;
+  justify-content: space-between;
+}
+
+.assetProgret {
+  width: 65%;
+}
+.conetenuassetview {
+  width: 80%;
+  background-color: aquamarine;
+  padding: 0.5rem;
+  height: 9rem;
+  border-radius: 5%;
+  position: relative;
+  margin: 0rem 0.5rem 0rem 0.5rem;
+}
+.asset > p {
+  font-size: 0.6rem;
+}
+.asset > span {
+  font-size: 1rem;
+}
+.conetenuassetview > p {
+  position: absolute;
+  bottom: 2rem;
+  left: 7rem;
+  font-size: 0.8rem;
+}
+.iconasset {
+  margin-top: 4.5rem;
+}
+.currentExercice {
+  text-align: right;
+}
+.currentExercice > span {
+  color: aquamarine;
+}
+.currentExercice > p {
+  font-size: 0.8rem;
+}
+.currentExercice > h5 {
+  color: brown;
+}
+.progressasset {
+  height: 0.4rem;
+
+  width: 21rem;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+}
+.valeurasset {
+  font-size: 0.7rem;
+  justify-content: space-between;
+  width: 80%;
+  margin-left: 1rem;
+  margin: 0.5rem 0rem 0rem 1.6rem;
+}
+.icontextparti1 {
+  justify-content: space-between;
+}
+.nameElement {
+  margin-bottom: 1rem;
+}
+.nameElement > p {
+  margin: 0rem;
+  margin-left: 0.5rem;
+}
+.valeurimmobilisation {
+  padding: 1rem 2rem 0rem 0rem;
+}
+.valeurimmobilisation > p {
+  font-size: 0.5rem;
+}
+.dateimmo > p,
+.typeimmo > p {
+  font-size: 0.8rem;
+  opacity: 0.4;
+  margin-bottom: 1rem;
+}
+.nameElement > p,
+.amountimmos > p {
+  font-size: 0.8rem;
+}
+.nameelementicon {
+  width: 0.6rem;
+}
+.amountimmos > p {
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+}
+/* parti2dashbord */
+.parti2dashboard {
+  width: 50%;
+}
+.blogelement {
+  justify-content: space-between;
+}
+.immotitre > img {
+  width: rem;
+  height: 3rem;
+  padding: 0.5rem;
+}
+.programmer {
+  background-color: rgb(153, 46, 46);
+  padding: 2rem 1rem 2rem 1rem;
+  color: white;
+}
+.immoprogremer {
+  justify-content: space-between;
+}
+.btnProg > p {
+  margin: 0rem 0.5rem 0rem 0rem;
+}
+.btnProg {
+  padding: 0.5rem;
+}
+.fontProgramer {
+  margin: 2.5rem 0rem 0rem 1rem;
+}

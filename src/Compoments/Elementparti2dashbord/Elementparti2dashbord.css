@@ -1,0 +1,19 @@
+.imgelement {
+  width: 1.5rem;
+  height: 1.5rem;
+  color: aquamarine;
+}
+.pElement {
+  font-size: 0.5rem;
+}
+.nbreelement > p {
+  margin: 0.5rem 0rem 0rem 0.5rem;
+  font-size: 0.8rem;
+}
+.nbreelement > span {
+  color: aquamarine;
+  font-size: 2rem;
+}
+.bureauElement {
+  margin: 0rem;
+}

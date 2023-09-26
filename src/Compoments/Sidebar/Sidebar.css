@@ -1,0 +1,83 @@
+.contenuSirdebar {
+  justify-content: space-between;
+  color: white;
+}
+.profil > img {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.textprofil {
+  margin-left: 0.5rem;
+}
+.textprofil > span {
+  font-size: 0.6rem;
+}
+.textprofil > p {
+  font-size: 0.5rem;
+}
+
+.profilUser {
+  justify-content: space-between;
+  display: flex;
+}
+.xmart {
+  /* margin-top: 0.5rem; */
+}
+.calendaricons {
+  justify-content: space-between;
+}
+.lightDarksidebar {
+  justify-content: space-around;
+
+  border-radius: 25%/50%;
+  /* margin-top: 1.5rem; */
+  background-color: black;
+  border: solid 1px black;
+
+  width: 12rem;
+}
+
+.light > p,
+.darks > p {
+  justify-content: space-around;
+  margin: 0rem 0.5rem;
+}
+.light {
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  border: solid 1px gray;
+
+  background-color: gray;
+  border-radius: 25%/50%;
+  font-size: 0.7rem;
+  /* margin-top: 0.3rem; */
+  margin: 0rem;
+}
+.darks {
+  padding: 0.5rem;
+  font-size: 0.7rem;
+  /* margin-top: 1rem; */
+}
+.footersidebar {
+  text-align: center !important;
+  font-size: 0.8rem;
+
+  margin-left: 3em;
+}
+.interogatinsideboar > p {
+  margin: 0rem 0rem 0rem 0.5rem;
+  font-size: 0.6rem;
+}
+.interogatinsideboar {
+  font-size: 0.8rem;
+  padding: 1rem 0rem 1rem 0rem;
+}
+.question {
+  background-color: aquamarine;
+  padding: 0.5rem;
+  width: 0.3rem;
+  height: 0.3rem;
+  border-radius: 50%;
+}
+.lignesidebar {
+  opacity: 0.5;
+}

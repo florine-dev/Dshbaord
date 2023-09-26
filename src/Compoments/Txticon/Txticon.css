@@ -1,0 +1,40 @@
+.texticon > p {
+  font-size: 0.6rem;
+  margin: 0rem 0rem 0rem 0.8rem;
+  color: white;
+}
+
+.texticonicon {
+  justify-content: space-between;
+  margin-top: 1rem;
+  color: white;
+  padding: 0.5rem;
+  border: solid 1px transparent;
+  border-radius: 5px;
+}
+.iconsuplementsid > b {
+  margin-left: 1rem;
+}
+.elementcache {
+  font-size: 0.6rem;
+  background-color: grey;
+  padding: 1rem;
+  color: brown;
+  display: none;
+}
+.texticonicon:hover {
+  background-color: grey;
+  /* padding: 0.5rem;
+  border-radius: 0.5rem; */
+}
+.iconsup2 {
+  margin-right: 1rem;
+  display: none;
+}
+.iconsup1 {
+  height: 0.5rem;
+  width: 0.5rem;
+  background-color: aquamarine;
+  padding: 0.3rem;
+  border-radius: 10%;
+}
